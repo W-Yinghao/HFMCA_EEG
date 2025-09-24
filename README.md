@@ -38,7 +38,7 @@ Detailed explanations of the data augmentation techniques used in our approach
 HFMCA architecture ablation experiments and results
 
 # Work in Progress
-⚠️ Note: This work is still in progress. We are continuously improving the code and adding more features
+⚠️ Note: This work is still in progress. We are continuously improving the code and adding more features. We will add a clean version (maybe in the format Jupyter notebook) later.
 
 # Contact
 For questions or issues, please:
